@@ -1,0 +1,9 @@
+.Rproj.user/
+.Rhistory
+.RData
+.RDataTmp
+.Renviron
+rsconnect/
+.DS_Store
+*.html
+*.pdf

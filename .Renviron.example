@@ -1,0 +1,2 @@
+# Optional. The app runs without this value.
+GEMINI_API_KEY=
