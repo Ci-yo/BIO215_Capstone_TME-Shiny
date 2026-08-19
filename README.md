@@ -5,6 +5,7 @@
 **An interactive single-cell tumour microenvironment lab for exploration, prediction and what-if experiments**
 
 [![Repository checks](https://github.com/Ci-yo/BIO215_Capstone_TME-Shiny/actions/workflows/repository-check.yml/badge.svg)](https://github.com/Ci-yo/BIO215_Capstone_TME-Shiny/actions/workflows/repository-check.yml)
+[![Live App](https://img.shields.io/badge/Live_App-Open_TME_Explorer-00A6A6?logo=shiny&logoColor=white)](https://xi-yo.shinyapps.io/TME_2255737/)
 ![Shiny](https://img.shields.io/badge/app-Shiny-1F77B4?logo=rstudio&logoColor=white)
 ![Cells](https://img.shields.io/badge/synthetic%20cells-3%2C000-7B61A8)
 ![Models](https://img.shields.io/badge/Random%20Forest-models%203-2E8B57)
@@ -13,6 +14,8 @@
 <img src="assets/app-preview.png" width="920" alt="TME Explorer dashboard">
 
 <sub>From synthetic single-cell profiles to cell-type classification, disease-state prediction and interactive gene perturbation.</sub>
+
+**[Launch the live TME Explorer →](https://xi-yo.shinyapps.io/TME_2255737/)**
 
 </div>
 
